@@ -8,6 +8,7 @@ the `order` doesn't need to be defined.
 
 ### Methods
 **insert**(*key, value*): insert a `key` with the associated `value`.
+
 - `int` **key**: a unique key to be inserted.
 - `int` **value**: value associated with key.
 
